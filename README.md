@@ -27,4 +27,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0217-contains-duplicate) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
