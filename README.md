@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0283-move-zeroes) |
+| [1528-shuffle-string](https://github.com/Anjali1515/LeetCode-solutions/tree/master/1528-shuffle-string) |
 | [1929-concatenation-of-array](https://github.com/Anjali1515/LeetCode-solutions/tree/master/1929-concatenation-of-array) |
 ## Binary Search
 |  |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0058-length-of-last-word](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0058-length-of-last-word) |
 | [0412-fizz-buzz](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0709-to-lower-case) |
+| [1528-shuffle-string](https://github.com/Anjali1515/LeetCode-solutions/tree/master/1528-shuffle-string) |
 ## Simulation
 |  |
 | ------- |
