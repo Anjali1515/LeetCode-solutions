@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0709-to-lower-case](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0709-to-lower-case) |
 | [1108-defanging-an-ip-address](https://github.com/Anjali1515/LeetCode-solutions/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/Anjali1515/LeetCode-solutions/tree/master/1528-shuffle-string) |
+| [1678-goal-parser-interpretation](https://github.com/Anjali1515/LeetCode-solutions/tree/master/1678-goal-parser-interpretation) |
 ## Simulation
 |  |
 | ------- |
