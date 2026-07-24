@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0283-move-zeroes) |
 ## Sorting
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0125-valid-palindrome) |
 | [0412-fizz-buzz](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0709-to-lower-case) |
 | [1108-defanging-an-ip-address](https://github.com/Anjali1515/LeetCode-solutions/tree/master/1108-defanging-an-ip-address) |
