@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0009-palindrome-number](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0070-climbing-stairs) |
 | [0412-fizz-buzz](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0412-fizz-buzz) |
 ## String
 |  |
@@ -66,4 +67,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
