@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0283-move-zeroes) |
+| [0905-sort-array-by-parity](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0905-sort-array-by-parity) |
 | [1528-shuffle-string](https://github.com/Anjali1515/LeetCode-solutions/tree/master/1528-shuffle-string) |
 | [1929-concatenation-of-array](https://github.com/Anjali1515/LeetCode-solutions/tree/master/1929-concatenation-of-array) |
 ## Binary Search
@@ -34,10 +35,12 @@ A collection of LeetCode questions to ace the coding interview!
 | [0125-valid-palindrome](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0283-move-zeroes) |
+| [0905-sort-array-by-parity](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0905-sort-array-by-parity) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0217-contains-duplicate) |
+| [0905-sort-array-by-parity](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0905-sort-array-by-parity) |
 ## Math
 |  |
 | ------- |
