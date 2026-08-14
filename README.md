@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0001-two-sum) |
 | [0205-isomorphic-strings](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0217-contains-duplicate) |
+| [0290-word-pattern](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0058-length-of-last-word](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0205-isomorphic-strings) |
+| [0290-word-pattern](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0709-to-lower-case) |
