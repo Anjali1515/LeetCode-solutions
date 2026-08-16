@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0844-backspace-string-compare](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0844-backspace-string-compare) |
 | [0905-sort-array-by-parity](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0905-sort-array-by-parity) |
 ## Sorting
 |  |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0387-first-unique-character-in-a-string](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0709-to-lower-case) |
+| [0844-backspace-string-compare](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0844-backspace-string-compare) |
 | [1108-defanging-an-ip-address](https://github.com/Anjali1515/LeetCode-solutions/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/Anjali1515/LeetCode-solutions/tree/master/1528-shuffle-string) |
 | [1678-goal-parser-interpretation](https://github.com/Anjali1515/LeetCode-solutions/tree/master/1678-goal-parser-interpretation) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0412-fizz-buzz) |
+| [0844-backspace-string-compare](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0844-backspace-string-compare) |
 | [1929-concatenation-of-array](https://github.com/Anjali1515/LeetCode-solutions/tree/master/1929-concatenation-of-array) |
 ## Queue
 |  |
@@ -120,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0733-flood-fill) |
+## Stack
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
