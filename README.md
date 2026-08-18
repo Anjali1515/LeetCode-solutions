@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0283-move-zeroes) |
