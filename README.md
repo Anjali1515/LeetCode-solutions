@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0069-sqrtx](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0278-first-bad-version](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
 |  |
@@ -129,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0844-backspace-string-compare) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
