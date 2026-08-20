@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0290-word-pattern](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0412-fizz-buzz) |
+| [0459-repeated-substring-pattern](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0459-repeated-substring-pattern) |
 | [0709-to-lower-case](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0709-to-lower-case) |
 | [0844-backspace-string-compare](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0844-backspace-string-compare) |
 | [1108-defanging-an-ip-address](https://github.com/Anjali1515/LeetCode-solutions/tree/master/1108-defanging-an-ip-address) |
@@ -134,4 +135,16 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0278-first-bad-version) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0459-repeated-substring-pattern) |
+## Z Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0459-repeated-substring-pattern) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
