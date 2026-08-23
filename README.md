@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0009-palindrome-number](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0231-power-of-two) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0290-word-pattern) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0412-fizz-buzz) |
 | [0844-backspace-string-compare](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0844-backspace-string-compare) |
 | [1929-concatenation-of-array](https://github.com/Anjali1515/LeetCode-solutions/tree/master/1929-concatenation-of-array) |
@@ -108,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0231-power-of-two) |
 ## Recursion
 |  |
