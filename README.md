@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0035-search-insert-position) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0125-valid-palindrome) |
@@ -153,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0459-repeated-substring-pattern) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
