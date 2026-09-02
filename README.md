@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0001-two-sum) |
+| [0202-happy-number](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0217-contains-duplicate) |
 | [0290-word-pattern](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0290-word-pattern) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0027-remove-element](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0541-reverse-string-ii](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0541-reverse-string-ii) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0067-add-binary](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0412-fizz-buzz) |
 ## String
@@ -170,4 +173,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0014-longest-common-prefix) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
