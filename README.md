@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0202-happy-number](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0412-fizz-buzz) |
+| [0492-construct-the-rectangle](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0492-construct-the-rectangle) |
 ## String
 |  |
 | ------- |
