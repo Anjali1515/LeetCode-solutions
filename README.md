@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0414-third-maximum-number) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0069-sqrtx](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0202-happy-number](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0387-first-unique-character-in-a-string) |
@@ -64,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0414-third-maximum-number) |
 | [0905-sort-array-by-parity](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0905-sort-array-by-parity) |
@@ -77,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0070-climbing-stairs](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0268-missing-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0412-fizz-buzz) |
 | [0492-construct-the-rectangle](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0492-construct-the-rectangle) |
@@ -136,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0067-add-binary](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0268-missing-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Recursion
 |  |
