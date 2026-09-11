@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0290-word-pattern](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0771-jewels-and-stones](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0771-jewels-and-stones) |
 ## Two Pointers
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0217-contains-duplicate](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0414-third-maximum-number) |
 | [0905-sort-array-by-parity](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0905-sort-array-by-parity) |
 ## Math
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0205-isomorphic-strings](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0392-is-subsequence) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0412-fizz-buzz) |
@@ -147,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0136-single-number](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Recursion
 |  |
