@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0724-find-pivot-index](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0733-flood-fill) |
 | [0905-sort-array-by-parity](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0905-sort-array-by-parity) |
+| [0976-largest-perimeter-triangle](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1528-shuffle-string](https://github.com/Anjali1515/LeetCode-solutions/tree/master/1528-shuffle-string) |
 | [1929-concatenation-of-array](https://github.com/Anjali1515/LeetCode-solutions/tree/master/1929-concatenation-of-array) |
 ## Binary Search
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0389-find-the-difference](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0414-third-maximum-number) |
 | [0905-sort-array-by-parity](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0905-sort-array-by-parity) |
+| [0976-largest-perimeter-triangle](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0976-largest-perimeter-triangle) |
 ## Math
 |  |
 | ------- |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0412-fizz-buzz) |
 | [0492-construct-the-rectangle](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0492-construct-the-rectangle) |
+| [0976-largest-perimeter-triangle](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0976-largest-perimeter-triangle) |
 ## String
 |  |
 | ------- |
@@ -206,4 +209,16 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0202-happy-number) |
+## Greedy
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0976-largest-perimeter-triangle) |
+## Quicksort
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0976-largest-perimeter-triangle) |
+## Polygons
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0976-largest-perimeter-triangle) |
 <!---LeetCode Topics End-->
