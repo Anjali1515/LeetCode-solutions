@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0231-power-of-two](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0292-nim-game) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0412-fizz-buzz) |
 | [0492-construct-the-rectangle](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0492-construct-the-rectangle) |
@@ -230,4 +231,24 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
