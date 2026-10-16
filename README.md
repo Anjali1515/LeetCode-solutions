@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0292-nim-game](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0292-nim-game) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0415-add-strings) |
 | [0492-construct-the-rectangle](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0492-construct-the-rectangle) |
 | [0976-largest-perimeter-triangle](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0976-largest-perimeter-triangle) |
 ## String
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0392-is-subsequence](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0392-is-subsequence) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0415-add-strings) |
 | [0459-repeated-substring-pattern](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0459-repeated-substring-pattern) |
 | [0482-license-key-formatting](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0482-license-key-formatting) |
 | [0541-reverse-string-ii](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0541-reverse-string-ii) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0067-add-binary](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0415-add-strings) |
 | [0657-robot-return-to-origin](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0657-robot-return-to-origin) |
 | [0844-backspace-string-compare](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0844-backspace-string-compare) |
 | [1929-concatenation-of-array](https://github.com/Anjali1515/LeetCode-solutions/tree/master/1929-concatenation-of-array) |
