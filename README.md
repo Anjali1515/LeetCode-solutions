@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0412-fizz-buzz](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0415-add-strings) |
 | [0492-construct-the-rectangle](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0492-construct-the-rectangle) |
+| [0728-self-dividing-numbers](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0728-self-dividing-numbers) |
 | [0976-largest-perimeter-triangle](https://github.com/Anjali1515/LeetCode-solutions/tree/master/0976-largest-perimeter-triangle) |
 ## String
 |  |
